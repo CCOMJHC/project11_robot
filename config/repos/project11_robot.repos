@@ -1,0 +1,29 @@
+repositories:
+  helm_manager:
+    type: git
+    url: git@github.com:rolker/helm_manager.git
+    version: noetic
+  hover:
+    type: git
+    url: git@github.com:rolker/hover.git
+    version: noetic
+  manda_coverage:
+    type: git
+    url: git@github.com:rolker/manda_coverage.git
+    version: noetic
+  mission_manager:
+    type: git
+    url: git@github.com:rolker/mission_manager.git
+    version: noetic
+  mpc:
+    type: git
+    url: git@github.com:rolker/mpc.git
+    version: noetic
+  path_follower:
+    type: git
+    url: git@github.com:rolker/path_follower.git
+    version: noetic
+  path_planner:
+    type: git
+    url: git@github.com:rolker/path_planner.git
+    version: noetic
