@@ -16,8 +16,7 @@
   <exec_depend>helm_manager</exec_depend>
   <exec_depend>hover</exec_depend>
   <exec_depend>mission_manager</exec_depend>
-  <exec_depend>mpc</exec_depend>
   <exec_depend>path_follower</exec_depend>
-  <exec_depend>path_planner</exec_depend>
+  <exec_depend>project11_navigation</exec_depend>
   
 </package>
